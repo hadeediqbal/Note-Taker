@@ -23,11 +23,13 @@ Here is a sample screenshot:
 <img src="./src/img2.PNG">
 
 Heroku Website:
-https://fast-caverns-74664.herokuapp.com/
+https://notetaker1112.herokuapp.com/notes.html
 
 
 ## License
 Note Taker app is licensed under the MIT License.
 
 ## Questions
-If you have any question please check out my GitHub https://github.com/ortizjavier10 or email me at ortiz.javier10@gmail.com .
+If you have any question please check out my GitHub https://github.com/hadeediqbal
+
+Credit Source: @ortizjavier10
